@@ -1,0 +1,18 @@
+[
+  {
+    "step": "retrieval",
+    "docs": [
+      "Contract Requirements\n\nA valid contract requires:\n\n1. Offer\n2. Acceptance\n3. Consideration\n4. Legal Capacity\n5. Lawful Purpose\n\nBoth parties must agree to the terms.\n\nThe contract should clearly define\nrights and obligations.\n\nWritten contracts are recommended\nfor legal protection.",
+      "Subscription Plans\n\nThe company offers three subscription plans: Basic, Pro, and Enterprise.\n\nThe Basic Plan is suitable for individual users.\n\nThe Pro Plan is designed for professionals and small businesses.\n\nThe Enterprise Plan is intended for large organizations requiring advanced features and support.\n\nCustomers may upgrade or downgrade their plans at any time.",
+      "Warranty Policy\n\nAll physical products include a one-year limited warranty.\n\nThe warranty covers manufacturing defects and hardware failures under normal usage conditions.\n\nThe warranty does not cover accidental damage, misuse, or unauthorized modifications.\n\nCustomers must provide proof of purchase when requesting warranty service.\n\nWarranty claims are reviewed within 7 business days."
+    ]
+  },
+  {
+    "step": "reasoning",
+    "decision": "KB"
+  },
+  {
+    "step": "answer",
+    "answer": "A valid contract requires:\n1. Offer\n2. Acceptance\n3. Consideration\n4. Legal Capacity\n5. Lawful Purpose\n\nBoth parties must agree to the terms. The contract should clearly define rights and obligations. Written contracts are recommended for legal protection."
+  }
+]

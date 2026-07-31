@@ -1,0 +1,11 @@
+Cancellation Policy
+
+Customers may cancel their subscriptions at any time through the account settings page.
+
+Cancellation requests take effect at the end of the current billing cycle.
+
+No additional charges will be applied after cancellation.
+
+Refund eligibility depends on the refund policy.
+
+Users retain access to subscribed services until the billing period ends.

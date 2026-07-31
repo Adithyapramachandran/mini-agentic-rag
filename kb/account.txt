@@ -1,0 +1,11 @@
+Account Management
+
+Users can update their profile information through the account dashboard.
+
+Passwords can be changed at any time using the security settings page.
+
+Two-factor authentication is available for enhanced security.
+
+Users may download their account data upon request.
+
+Inactive accounts may be archived after extended periods of inactivity.

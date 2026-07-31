@@ -1,0 +1,18 @@
+[
+  {
+    "step": "retrieval",
+    "docs": [
+      "Refund Policy\n\nCustomers may request a refund within 30 days of purchase.\n\nRefund requests must be submitted through the customer portal or by contacting support.\n\nRefunds are processed within 5 business days after approval.\n\nDigital products are refundable only if they have not been extensively used.\n\nRefunds will be credited to the original payment method.",
+      "Cancellation Policy\n\nCustomers may cancel their subscriptions at any time through the account settings page.\n\nCancellation requests take effect at the end of the current billing cycle.\n\nNo additional charges will be applied after cancellation.\n\nRefund eligibility depends on the refund policy.\n\nUsers retain access to subscribed services until the billing period ends.",
+      "Warranty Policy\n\nAll physical products include a one-year limited warranty.\n\nThe warranty covers manufacturing defects and hardware failures under normal usage conditions.\n\nThe warranty does not cover accidental damage, misuse, or unauthorized modifications.\n\nCustomers must provide proof of purchase when requesting warranty service.\n\nWarranty claims are reviewed within 7 business days."
+    ]
+  },
+  {
+    "step": "reasoning",
+    "decision": "KB"
+  },
+  {
+    "step": "answer",
+    "answer": "Customers may request a refund within 30 days of purchase. Refund requests must be submitted through the customer portal or by contacting support. Refunds are processed within 5 business days after approval and will be credited to the original payment method. Digital products are refundable only if they have not been extensively used."
+  }
+]

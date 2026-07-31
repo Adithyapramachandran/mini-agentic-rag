@@ -1,0 +1,11 @@
+Payment Methods
+
+The company accepts major credit cards including Visa, MasterCard, and American Express.
+
+Payments can also be made using PayPal.
+
+Enterprise customers may request invoice-based payments.
+
+All transactions are secured using industry-standard encryption.
+
+Payment confirmations are sent automatically via email.

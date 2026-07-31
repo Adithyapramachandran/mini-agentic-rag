@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+chromadb
+pandas
+python-dotenv
+google-generativeai
+sentence-transformers
+langchain
+langchain-community
+requests

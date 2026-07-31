@@ -1,0 +1,18 @@
+[
+  {
+    "step": "retrieval",
+    "docs": [
+      "Subscription Plans\n\nThe company offers three subscription plans: Basic, Pro, and Enterprise.\n\nThe Basic Plan is suitable for individual users.\n\nThe Pro Plan is designed for professionals and small businesses.\n\nThe Enterprise Plan is intended for large organizations requiring advanced features and support.\n\nCustomers may upgrade or downgrade their plans at any time.",
+      "Warranty Policy\n\nAll physical products include a one-year limited warranty.\n\nThe warranty covers manufacturing defects and hardware failures under normal usage conditions.\n\nThe warranty does not cover accidental damage, misuse, or unauthorized modifications.\n\nCustomers must provide proof of purchase when requesting warranty service.\n\nWarranty claims are reviewed within 7 business days.",
+      "Payment Methods\n\nThe company accepts major credit cards including Visa, MasterCard, and American Express.\n\nPayments can also be made using PayPal.\n\nEnterprise customers may request invoice-based payments.\n\nAll transactions are secured using industry-standard encryption.\n\nPayment confirmations are sent automatically via email."
+    ]
+  },
+  {
+    "step": "reasoning",
+    "decision": "KB"
+  },
+  {
+    "step": "answer",
+    "answer": "Subscription Plans\n\nThe company offers three subscription plans: Basic, Pro, and Enterprise.\n\nThe Basic Plan is suitable for individual users.\n\nThe Pro Plan is designed for professionals and small businesses.\n\nThe Enterprise Plan is intended for large organizations requiring advanced features and support.\n\nCustomers may upgrade or downgrade their plans at any time."
+  }
+]

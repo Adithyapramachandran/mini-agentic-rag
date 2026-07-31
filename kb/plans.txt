@@ -1,0 +1,11 @@
+Subscription Plans
+
+The company offers three subscription plans: Basic, Pro, and Enterprise.
+
+The Basic Plan is suitable for individual users.
+
+The Pro Plan is designed for professionals and small businesses.
+
+The Enterprise Plan is intended for large organizations requiring advanced features and support.
+
+Customers may upgrade or downgrade their plans at any time.
